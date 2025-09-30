@@ -304,14 +304,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **Developer:** Krishmal
-- **GitHub:** [Krishmal2004](https://github.com/Krishmal2004)
-- **Email:** your.email@example.com
+- **Developer:** Byteforce
+- **GitHub:** http://krishmal.qzz.io/
+- **Email:** krishmaldinidu5466@gmail.com
 
 ---
 
 <p align="center">
-  Made with ❤️ by Krishmal2004
+  Made with ❤️ by Byteforce
   <br>
   Last updated: September 30, 2025
 </p>
